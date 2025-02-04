@@ -6,6 +6,7 @@ Este projeto é um pipeline de ETL (Extract, Transform, Load) desenvolvido em Py
 
 ##**Atenção**
 
+Seguindo contra as boas praticas, os comentarios no codigo sera mantido para poder ajudar na identificação de cada coisa e sua função, para auxiliar qualquer pessoa de qualquer nivel de conhecimento
 O projeto ainda esta sendo desenvolvido entao algumas coisas precisarão ser feitas a mão, ex: se a descrição do produto filho vier no campo descrições, sera necessario fazer a mudança a mão
 
 ## **Estrutura do Projeto**
